@@ -78,14 +78,6 @@
 | **Bank Sync** | Powens |
 | **Infrastructure** | Kubernetes, Helm, Azure |
 
-## 📦 Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [**app**](https://github.com/previly/app) | Main application (Backend API + Web Frontend) |
-| [**website**](https://github.com/previly/website) | Landing page & marketing website |
-| [**helm**](https://github.com/previly/helm) | Helm charts for Kubernetes deployment |
-
 ## 🌍 Who Is Previly For?
 
 - **Individuals** – Take control of your personal finances, track budgets, visualize spending patterns
