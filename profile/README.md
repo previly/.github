@@ -14,32 +14,32 @@
 </p>
 
 <p align="center">
-  <a href="https://previly.com/en">🌐 Website</a> •
-  <a href="https://app.previly.com">🚀 Get Started</a> •
-  <a href="https://previly.com/en/features">✨ Features</a> •
-  <a href="https://previly.com/en/pricing">💰 Pricing</a> •
-  <a href="https://previly.com/en/documentation">📖 Documentation</a>
+  <a href="https://previly.com/en"> Website</a> •
+  <a href="https://app.previly.com"> Get Started</a> •
+  <a href="https://previly.com/en/features"> Features</a> •
+  <a href="https://previly.com/en/pricing"> Pricing</a> •
+  <a href="https://previly.com/en/documentation"> Documentation</a>
 </p>
 
 ---
 
-## 🎯 What is Previly?
+## What is Previly?
 
 **Previly** is a smart financial management platform that helps individuals, entrepreneurs, and businesses take control of their finances. Say goodbye to scattered Excel spreadsheets and multiple apps – Previly brings all your personal and professional finances into one clear, intuitive interface.
 
-## ✨ Key Features
+## Key Features
 
-### 🏦 Unified Financial View
+### Unified Financial View
 - Connect all your bank accounts in one place
 - Manage personal **and** professional finances seamlessly
 - Switch instantly between different profiles (individuals & legal entities)
 
-### 🤖 AI-Powered Intelligence
+### AI-Powered Intelligence
 - **Automatic extraction** from PDF statements using Claude Sonnet AI
 - **Smart categorization** of your transactions
 - **AI chat assistant** – ask questions about your finances in natural language
 
-### 📊 Complete Financial Management
+### Complete Financial Management
 - **Bank synchronization** via Powens (real-time updates)
 - **Custom categories** for tailored organization
 - **Budgets & alerts** to stay in control
@@ -47,26 +47,26 @@
 - **Recurring payment detection** for subscription visibility
 - **Loan management** with detailed amortization schedules
 
-### 💼 Business Tools
+### Business Tools
 - **Cash flow forecasting** with Excel export
 - **Expense notes management** with AI receipt extraction
 - **Multi-entity management** for holding structures
 - **Revenue & expense tracking** with clear visualizations
 
-### 💰 Wealth Tracking
+### Wealth Tracking
 - Complete **patrimony overview** at a glance
 - Track **alternative investments** (crypto, gold, jewelry)
 - **Evolution tracking** over time to measure financial progress
 - Professional asset valuations
 
-## 🔒 Security & Privacy
+## Security & Privacy
 
 - **Privacy First**: We never store your banking credentials
 - **GDPR Certified**: Your data is protected with the highest European standards
 - **Secure connections**: All data encrypted in transit and at rest
 - **Revokable access**: Disconnect your banks at any time
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technologies |
 |-------|-------------|
@@ -78,22 +78,22 @@
 | **Bank Sync** | Powens |
 | **Infrastructure** | Kubernetes, Helm, Azure |
 
-## 🌍 Who Is Previly For?
+## Who Is Previly For?
 
 - **Individuals** – Take control of your personal finances, track budgets, visualize spending patterns
 - **Entrepreneurs & Freelancers** – Manage personal and business finances without hassle, track project profitability
 - **Businesses** – Cash flow forecasting, multi-entity management, team expense reports
 
-## 💬 About the Founder
+## About the Founder
 
 > *"The idea of Previly was born from personal frustration. Like many of us, I was looking for a simple and effective way to manage my finances. Rather than continuing to use tools that didn't meet my needs, I decided to create Previly."*
 >
 > — **Armand LEOPOLD**, Engineer & Founder
 
-## 📫 Contact
+## Contact
 
-- 🌐 Website: [previly.com](https://previly.com/en)
-- 📧 Email: [contact@previly.com](mailto:contact@previly.com)
+- Website: [previly.com](https://previly.com/en)
+- Email: [contact@previly.com](mailto:contact@previly.com)
 
 ---
 
