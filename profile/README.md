@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/previly/.github/main/banner.png" alt="Previly - All your finances finally together" width="100%" />
+  <img width="1200" height="630" alt="previly-og-banner" src="https://github.com/user-attachments/assets/fc075f34-4c1c-4089-b8fc-9d94daf7f26a" />
 </p>
 
 <h1 align="center">Previly</h1>
